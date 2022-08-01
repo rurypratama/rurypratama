@@ -1,6 +1,6 @@
 {
-  "name": "Prime",
-  "description": "Prime, adalah userbot pyrogram yang menggunakn MongoDB database",
+  "name": "Aceng",
+  "description": "Aceng, adalah userbot pyrogram yang menggunakn MongoDB database",
   "stack": "heroku-22",
   "env": {
     "API_ID": {
