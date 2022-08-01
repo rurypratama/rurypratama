@@ -1,7 +1,7 @@
 import logging
 from logging.handlers import RotatingFileHandler
 
-LOG_FILE_NAME = "prime.tx"
+LOG_FILE_NAME = "aceng.tx"
 
 logging.basicConfig(
     level=logging.INFO,
