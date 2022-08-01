@@ -1,6 +1,6 @@
-![Prime](https://telegra.ph/file/7e0c2450664bfc304203b.jpg)
+![Aceng](https://telegra.ph/file/2f717d25d4d253103edc6.jpg)
 
-# Prime
+# Aceng
 
 Userbot ini di buat berdasarkan library [Pyrogram](https://github.com/pyrogram/pyrogram)
 
@@ -20,7 +20,7 @@ Userbot ini di buat berdasarkan library [Pyrogram](https://github.com/pyrogram/p
 </details>
 
 # Contoh kode
-> Bagi yang mau kembangin Prime-Userbot bisa lihat contoh ini
+> Bagi yang mau kembangin Aceng-Userbot bisa lihat contoh ini
 
 ```python
 from Prime import CMD_HELP, app
